@@ -1,4 +1,4 @@
-# nginx-deployment-EKS-cluster
+# Nginx-deployment-EKS-cluster
 Deploy nginx container on EKS
 Deploying Nginx on an Amazon EKS (Elastic Kubernetes Service) cluster involves a series of steps to ensure that Nginx is properly set up and running in your Kubernetes environment. Here's a comprehensive guide to help you through the process:
 
